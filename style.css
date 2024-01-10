@@ -16,7 +16,8 @@ body{
 img{
     width: 90%;
     display: block;
-    margin: 14px;
+    margin-block: 1rem;
+    Margin-inline:auto;
     border-radius: 12px;
 }
 
