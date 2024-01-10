@@ -65,6 +65,8 @@ p:first-of-type{
     img{
         width: 85%;
         display: block;
+        margin-inline: auto;
+        margin-block: 1rem;
         border-radius: 12px;
     }
 
